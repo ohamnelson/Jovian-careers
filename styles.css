@@ -200,6 +200,12 @@ a {
         height: 100%;
         width: 100%;
     }  
+    #footer-links {
+        flex-direction: row;
+    }
+    #footer-links li {
+        margin: 16px;
+    }
     
 }
 
